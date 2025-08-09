@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**m-schulte-althoff/m-schulte-althoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 
+    - I’m currently part of the team of Charité Medical Informatics.
+    - I’m interested in Data Engineering, (mostly tabular) Machine Learning, Data Gathering and Analysis -- mostly Python stuff
+    - I graduated from Freie Universität Berlin with a PhD in Information Systems -- method-focus on econometrics, ML, simulation & metaheuristics        
+    - Rewards/Experiences
+        - Fellowship for career development granted by the Joachim Herz Stiftung (01.11.2023)
+        - Scholarships by the German Academic Exchange Service and Dahlem Research School
+        - ISTQB Software Tester
+    - How to reach me
+        - matthias@schulte-althoff.de
+    - More here:
+        - schulte-althoff.de
+        - [scholarly activity](https://scholar.google.com/citations?user=6kwHaAcAAAAJ&hl=de)
