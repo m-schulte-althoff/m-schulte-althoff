@@ -1,13 +1,14 @@
 ## Hi there 
-    - I’m currently part of the team of Charité Medical Informatics.
-    - I’m interested in Data Engineering, (mostly tabular) Machine Learning, Data Gathering and Analysis -- mostly Python stuff
-    - I graduated from Freie Universität Berlin with a PhD in Information Systems -- method-focus on econometrics, ML, simulation & metaheuristics        
-    - Rewards/Experiences
-        - Fellowship for career development granted by the Joachim Herz Stiftung (01.11.2023)
-        - Scholarships by the German Academic Exchange Service and Dahlem Research School
-        - ISTQB Software Tester
-    - How to reach me
-        - matthias@schulte-althoff.de
-    - More here:
-        - schulte-althoff.de
-        - [scholarly activity](https://scholar.google.com/citations?user=6kwHaAcAAAAJ&hl=de)
+
+   - I’m currently part of the team of Charité Medical Informatics.
+   - I’m interested in Data Engineering, (mostly tabular) Machine Learning, Data Gathering and Analysis -- mostly Python stuff
+   - I graduated from Freie Universität Berlin with a PhD in Information Systems -- method-focus on econometrics, ML, simulation & metaheuristics        
+   - Rewards/Experiences
+       - Fellowship for career development granted by the Joachim Herz Stiftung (01.11.2023)
+       - Scholarships by the German Academic Exchange Service and Dahlem Research School
+       - ISTQB Software Tester
+   - How to reach me
+       - matthias@schulte-althoff.de
+   - More here:
+       - [my hp](schulte-althoff.de)
+       - [scholarly activity](https://scholar.google.com/citations?user=6kwHaAcAAAAJ&hl=de)
