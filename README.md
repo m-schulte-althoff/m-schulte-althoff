@@ -6,7 +6,7 @@
    - Rewards/Experiences
        - Fellowship for career development granted by the Joachim Herz Stiftung (01.11.2023)
        - Scholarships by the German Academic Exchange Service and Dahlem Research School
-       - ISTQB Software Tester
+<!-- - ISTQB Software Tester -->       
    - How to reach me
        - matthias@schulte-althoff.de
    - More here:
